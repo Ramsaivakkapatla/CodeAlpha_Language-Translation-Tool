@@ -1,6 +1,6 @@
 # CodeAlpha_Language-Translation-Tool
-Language Translation Tool
-Project Overview
+#Language Translation Tool
+#Project Overview
 This project is a Language Translation Tool developed using Python and Streamlit. The application enables users to translate text between multiple languages in real time using Google Translator services. It also provides Text-to-Speech functionality, allowing users to listen to translated content directly within the application.
 
 The tool features a modern user interface with a custom background image, styled input fields, language selection menus, and integrated speech synthesis for an enhanced user experience.
